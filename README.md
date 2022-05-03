@@ -1,6 +1,6 @@
 ## Nabagenebt Ststen
 본 프로젝트는 React 강의 목적으로 만들어진 고객 관리 시스템
-(Management Ststem)입니다.
+(Management Ststem)입니다. 다시 테스트
 
 # Getting Started with Create React App
 
